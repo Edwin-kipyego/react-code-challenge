@@ -7,7 +7,8 @@ A simple Expense Tracker built with **React**, that allows users to add, view, s
 -Filter expenses by name
 -Sort expenses by category or description 
 -Delete individual expenses
-group expenses by date and total amount spend per day
+-Daily totals- Automatically calculate and display total expense per day
+-Responsive Design- for all screen sizes with clean custom styling.
 
 
 ## Tech 
