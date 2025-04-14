@@ -1,6 +1,6 @@
 body {
   font-family: Arial, sans-serif;
-  background: #f5f6fa;
+  background: #e652f3;
   margin: 0;
   padding: 0;
 }
@@ -100,14 +100,14 @@ table button:hover {
   background: #c23616;
 }
 .daily-totals {
-  background: #f1f2f6;
+  background: #b7c2ec;
   padding: 15px;
   border-radius: 10px;
   margin-top: 20px;
 }
 
 .daily-totals h3 {
-  color: #2f3640;
+  color: #1a2ee6;
 }
 
 .daily-totals ul {
@@ -117,5 +117,5 @@ table button:hover {
 
 .daily-totals li {
   padding: 6px 0;
-  border-bottom: 1px solid #dcdde1;
+  border-bottom: 4px solid #7089ec;
 }
